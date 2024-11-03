@@ -1,4 +1,4 @@
 export interface ThemeState {
-    isDark: boolean;
-    mode: string;
-  }
+  isDark: boolean
+  mode: string
+}

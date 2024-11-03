@@ -1,6 +1,6 @@
-import type { Task } from './Task';
+import type { Task } from './TaskModel'
 
 export interface TaskState {
-  loading: boolean;
-  data: Task[];
+  loading: boolean
+  data: Task[]
 }

@@ -13,7 +13,6 @@ import TodoListComponent from '@/components/TodoListComponent.vue'
       </p>
     </div>
     <InputComponent />
-    <TodoListComponent/>
+    <TodoListComponent />
   </div>
-  
 </template>
